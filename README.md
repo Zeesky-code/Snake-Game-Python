@@ -1,4 +1,4 @@
-# Snake GamePython
+# Snake Game
 A clone of the famous Snake game written in Python with the Pygame library.
 
 Instructions
